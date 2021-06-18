@@ -1,0 +1,15 @@
+table{
+    margin-left: 500px;
+    margin-bottom: 15px;
+    border:solid 4px darkgrey;
+   
+}
+th{
+    background-color: lightcoral;
+    font-weight: bold;
+}
+td{
+    padding: 15px;
+    font-size: 25px;
+
+}
